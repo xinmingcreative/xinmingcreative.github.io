@@ -9,8 +9,8 @@ description: "We provide top up services for alipay, wechat, and mipay."
 keywords: "alipay, wechat, mipay, top up, china"
 
 # Plugins
-gems:
-  - jekyll-multiple-languages-plugin
+# gems:
+#   - jekyll-multiple-languages-plugin
 
 # Language
 languages: ["en", "cn"]
