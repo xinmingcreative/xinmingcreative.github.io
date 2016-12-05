@@ -35,7 +35,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Build settings
-#markdown: redcarpet
-markdown: kramdown
-permalink: pretty
-# highlighter: pygments
+# markdown: kramdown
+# permalink: pretty
+markdown: redcarpet
+highlighter: pygments
