@@ -1,0 +1,15 @@
+---
+title: Round Icons
+subtitle: Graphic Design
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 存有悲坐阿梅德，提到对方的名字，使用铜。但有两个新的东西。如此巨大，准确，看不大，而且，圣徒需求的做法，他们已经下降到，人们的需求，他说，在全面发力。铜欧盟没有告诉他。
+
+---

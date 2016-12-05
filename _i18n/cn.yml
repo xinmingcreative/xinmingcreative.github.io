@@ -1,0 +1,19 @@
+global:
+  tagline: 中文
+  services: 服务
+  QA: 问答
+  about: 关于
+  contact: 联系
+  welcome: 欢迎来到我们的主页！
+  nicetomeet: 很高兴见到你
+  tellme: 更多
+  twitter: Twitter
+  github: GitHub
+langs:
+  en: English
+  cn: 中文
+pages:
+  example: 例子
+  includeexample: The following text is a Jekyll include liquid tag parameter
+titles:
+  pagination: Pagination

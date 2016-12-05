@@ -1,0 +1,20 @@
+global:
+  tagline: English
+  services: Services
+  QA: Q&A
+  about: About
+  contact: Contact
+  welcome: Welcome To Our Homepage!
+  nicetomeet: It's Nice To Meet You
+  tellme: Tell Me More
+  twitter: Twitter
+  github: GitHub
+langs:
+  it: Italiano
+  en: English
+  es: Español
+pages:
+  example: example
+  includeexample: The following text is a Jekyll include liquid tag parameter
+titles:
+  pagination: Pagination
