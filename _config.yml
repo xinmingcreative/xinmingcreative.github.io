@@ -1,5 +1,6 @@
-# url: https://y7kim.github.io
-# baseurl: /
+url: http://www.chinatopup.com
+baseurl: ""
+permalink: /:title/
 
 # Site settings
 title: China Topup | Alipay | Wechat | Mipay
@@ -7,41 +8,13 @@ email: xinming.creative@gmail.com
 description: "We provide top up services for alipay, wechat, and mipay."
 keywords: "alipay, wechat, mipay, top up, china"
 
+# Plugins
+gems:
+  - jekyll-multiple-languages-plugin
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+# Language
+languages: ["en", "cn"]
+# exclude_from_localizations: ["js", "img", "css", "stylesheets", "favicon.ico"]
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -62,5 +35,6 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
+# highlighter: pygments
