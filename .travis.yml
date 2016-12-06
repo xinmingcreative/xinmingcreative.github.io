@@ -2,4 +2,6 @@ language: ruby
 sudo: required
 rvm:
 - 2.1
-script: bundle exec jekyll build && gem install 'jekyll-multiple-languages-plugin'
+script:
+- bundle exec jekyll build
+- gem install 'jekyll-multiple-languages-plugin'
