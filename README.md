@@ -41,6 +41,18 @@ $ jekyll serve --safe
 
 Now browse to http://localhost:4000
 
+## Build Github with Travis-CI
+1. Sign up [Travis-CI](https://travis-ci.org).
+2. Enable Travis-CI services in repo settings by enter:
+ - Travis-CI username
+ - Token from Travis CI
+3. Add _Gemfile_ and _.travis.yml_ at root repo.
+4. Done.
+
+The build will auto trigger on every git push.
+
+see https://help.github.com/articles/viewing-jekyll-build-error-messages/
+
 
 ## Reference
 - [How to create github page](https://pages.github.com/)
