@@ -4,4 +4,4 @@ rvm:
 - 2.1
 script:
 - bundle exec jekyll build
-- sudo gem install 'jekyll-multiple-languages-plugin'
+- gem install 'jekyll-multiple-languages-plugin'
